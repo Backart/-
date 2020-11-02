@@ -1,0 +1,1695 @@
+.logo{
+    /* logo */
+
+position: absolute;
+width: 160px;
+height: 87px;
+left: 160px;
+top: 60px;}
+ 
+.rectangle{
+    /* Rectangle 2 */
+
+position: absolute;
+width: 88px;
+height: 29px;
+left: 568px;
+top: 88px;
+
+border: 1px solid rgba(209, 169, 84, 0.9);
+box-sizing: border-box;}
+
+.textik{
+/* Главная */
+
+position: absolute;
+width: 70px;
+height: 16px;
+left: 577px;
+top: 95px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+/* Accent */
+
+color: #D1A954;}
+
+:root{
+    font-family: sans-serif; 
+}
+
+.sofit{
+    /* SOFIT EVENT HOUSE */
+
+
+position: absolute;
+width: 152px;
+height: 16px;
+left: 677px;
+top: 95px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+/* Accent */
+
+color: #D1A954;}
+
+.textik_2{
+    /* МЕРОПРИЯТИЯ */
+
+
+position: absolute;
+width: 116px;
+height: 16px;
+left: 859px;
+top: 95px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #000000;}
+
+:root{
+    font-family: sans-serif; 
+}
+
+.textik_3{
+    /* ТУРИСТАМ */
+
+
+    position: absolute;
+    width: 79px;
+    height: 16px;
+    left: 1005px;
+    top: 95px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    
+    color: #000000;}
+
+    :root{
+        font-family: sans-serif; 
+    }
+
+.textik_4{
+    /* КЕЙТЕРИНГ */
+
+
+position: absolute;
+width: 87px;
+height: 16px;
+left: 1114px;
+top: 95px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #000000;}
+
+:root{
+    font-family: sans-serif; 
+}
+
+.textik_5{
+    /* ДЛЯ АГЕНТСТВ */
+
+
+position: absolute;
+width: 111px;
+height: 16px;
+left: 1231px;
+top: 95px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #000000;}
+
+:root{
+    font-family: sans-serif; 
+}
+
+.line_1{
+    /* Line 1 */
+
+position: absolute;
+width: 40px;
+height: 0px;
+left: 1400px;
+top: 94px;
+
+border: 1px solid #000000;}
+
+
+.line_2{
+    /* Line 2 */
+
+position: absolute;
+width: 40px;
+height: 0px;
+left: 1400px;
+top: 103px;
+
+border: 1px solid #000000;}
+
+
+.line_3{
+    /* Line 3 */
+
+position: absolute;
+width: 40px;
+height: 0px;
+left: 1400px;
+top: 111px;
+
+border: 1px solid #000000;}
+
+.rectangle_1{
+    /* Rectangle 1 */
+
+position: absolute;
+width: 580px;
+height: 650px;
+left: 60px;
+top: 207px;}
+
+.rectangle_2{
+    /* Rectangle 2 */
+
+position: absolute;
+width: 580px;
+height: 650px;
+left: 670px;
+top: 207px;}
+
+.rectangle_3{
+    /* Rectangle 3 */
+
+position: absolute;
+width: 580px;
+height: 650px;
+left: 1280px;
+top: 207px;}
+
+.rectangle_21{
+position: absolute;
+width: 580px;
+height: 166px;
+left: 60px;
+top: 691px;
+opacity: 90%;
+background: rgba(209, 169, 84, 0.9);}
+
+.rectangle_22{
+position: absolute;
+width: 580px;
+height: 166px;
+left: 670px;
+top: 691px;
+opacity: 90%;
+background: rgba(209, 169, 84, 0.9);}
+
+.rectangle_23{position: absolute;
+width: 580px;
+height: 166px;
+left: 1280px;
+top: 691px;
+opacity: 90%;
+background: rgba(209, 169, 84, 0.9);}
+
+.rectangle_31{
+position: absolute;
+width: 550px;
+height: 126px;
+left: 75px;
+top: 711px;
+    
+border: 1px solid rgba(255, 255, 255, 0.5);
+box-sizing: border-box;}
+
+.rectangle_32{
+    position: absolute;
+    width: 550px;
+    height: 126px;
+    left: 685px;
+    top: 711px;
+    
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    box-sizing: border-box;}
+
+.rectangle_33{
+position: absolute;
+width: 550px;
+height: 126px;
+left: 1295px;
+top: 711px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);
+box-sizing: border-box;}
+
+.korporativ{
+    /* корпоративы */
+
+    position: absolute;
+    width: 580px;
+    height: 29px;
+    left: 60px;
+    top: 732px;
+    
+    font-family:Candara Light;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;}
+
+    :root{
+        font-family: sans-serif; 
+    }
+
+.otmehalka{
+    /* Отметьте лучший праздник в лучшем дворце Петербурга! */
+
+position: absolute;
+width: 580px;
+height: 34px;
+left: 60px;
+top: 781px;
+
+font-family: Candara Light;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 135%;
+/* or 19px */
+
+text-align: center;
+
+color: #FFFFFF;}
+
+:root{
+    font-family: sans-serif; 
+}
+
+.svadba{
+    /* свадьбы */
+
+
+position: absolute;
+width: 580px;
+height: 35px;
+left: 670px;
+top: 732px;
+
+font-family:Candara Light ;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;}
+
+:root{
+    font-family: sans-serif; 
+}
+
+.otmehalka_2{
+    /* Отметьте лучший праздник в лучшем дворце Петербурга! */
+
+position: absolute;
+width: 580px;
+height: 34px;
+left: 670px;
+top: 781px;
+
+font-family: Candara Light;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 135%;
+/* or 19px */
+
+text-align: center;
+
+color: #FFFFFF;}
+
+:root{
+    font-family: sans-serif; 
+}
+
+.veherinka{
+    /* званые вечера */
+
+    position: absolute;
+    width: 580px;
+    height: 35px;
+    left: 1280px;
+    top: 732px;
+    
+    font-family: Candara Light;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;}
+
+:root{
+    font-family: sans-serif; 
+}
+    
+
+.otmehalka_3{
+    /* Отметьте лучший праздник в лучшем дворце Петербурга! */
+
+    position: absolute;
+    width: 580px;
+    height: 34px;
+    left: 1280px;
+    top: 781px;
+    
+    font-family: Candara Light;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 135%;
+    /* or 19px */
+    
+    text-align: center;
+    
+    color: #FFFFFF;}
+
+    :root{
+        font-family: sans-serif; 
+    }
+    
+.line1{
+    /* Line */
+
+
+position: absolute;
+width: 7.04px;
+height: 0px;
+left: 874px;
+top: 922px;
+
+border: 1px solid #000000;
+transform: matrix(0.71, -0.7, 0.71, 0.71, 0, 0);}
+
+.line2{
+    /* Line */
+
+position: absolute;
+width: 7.04px;
+height: 0px;
+left: 874px;
+top: 927.6px;
+
+border: 1px solid #000000;
+transform: matrix(0.71, 0.7, 0.71, -0.71, 0, 0);}
+
+.line3{
+    /* Line */
+
+
+position: absolute;
+width: 7.04px;
+height: 0px;
+left: 1046px;
+top: 922px;
+
+border: 1px solid #000000;
+transform: matrix(-0.71, -0.7, -0.71, 0.71, 0, 0);}
+
+.line4{
+/* Line */
+
+
+position: absolute;
+width: 7.04px;
+height: 0px;
+left: 1046px;
+top: 928px;
+
+border: 1px solid #000000;
+transform: rotate(139deg);}
+
+.line2_2{
+/* Line 2 */
+
+
+position: absolute;
+width: 144px;
+height: 0px;
+left: 888px;
+top: 925px;
+
+border: 1px solid #E5E5E5;}
+
+.line2_1{
+    /* Line 2 */
+    
+    
+    position: absolute;
+    width: 144px;
+    height: 0px;
+    left: 888px;
+    top: 925px;
+    
+    border: 1px solid #E5E5E5;}
+
+.o_restorane{
+    /* О РЕСТОРАНЕ */
+
+
+position: absolute;
+width: 287px;
+height: 35px;
+left: 840px;
+top: 1046px;
+
+/* h2 */
+
+font-family: Candara Light;
+font-style: normal;
+font-weight: 300;
+font-size: 42px;
+line-height: 145%;
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #222222;
+}
+
+.o_restorane:root{
+    font-family: sans-serif; 
+}
+
+.descr1{
+    /* descr1 */
+
+position: absolute;
+width: 46px;
+height: 30px;
+left: 937px;
+top: 1106px;
+}
+
+.dvorec{
+    /* летний дворец */
+
+position: absolute;
+width: 87px;
+height: 11px;
+left: 916px;
+top: 1146px;
+
+font-family: Candara Light;
+font-style: normal;
+font-weight: 300;
+font-size: 9px;
+line-height: 11px;
+
+text-align: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.dvorec:root{
+    font-family: sans-serif; 
+}
+
+.кectangle67{
+    /* Rectangle 2 */
+
+position: absolute;
+width: 920px;
+height: 479px;
+left: 500px;
+top: 1217px;
+}
+
+.vector{
+/* Vector */
+
+position: absolute;
+width: 46px;
+height: 30px;
+left: 937px;
+top: 1445px;
+}
+
+.logo_big{
+/* logo_big */
+
+position: absolute;
+width: 202.79px;
+height: 110px;
+left: 574px;
+top: 1786px;}
+
+.big_text{
+    /* Добро пожаловать в Летний Дворец!
+     Всего в 12 километрах от Петербурга,
+     неподалеку от знаменитых фонтанов
+      и парков Петергофа воплощен в жизнь один
+      из самых грандиозных проектов 
+      event-индустрии России – ресторанный 
+      комплекс «Летний Дворец». Открытый в 2009 
+      году, он объединил под одной крышей современный 
+      банкетный зал в исторических дворцовых
+       интерьерах на 800 гостей и собственный кейтеринг. */
+
+
+position: absolute;
+width: 350px;
+height: 205px;
+left: 500px;
+top: 1929px;
+
+/* p */
+
+font-family: Candara Light;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 135%;
+
+/* gray */
+
+color: #616161;
+}
+
+.descr11{
+    /* descr1 */
+
+position: absolute;
+width: 46px;
+height: 30px;
+left: 975px;
+top: 1786px;
+}
+
+.plohadka{
+    /* площадка */
+
+position: absolute;
+width: 189px;
+height: 17px;
+left: 1041px;
+top: 1799px;
+
+/* h3 */
+
+font-family:  Bahnschrift Light ;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 135%;
+/* or 22px */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.text1{
+    /* Сочетание классических 
+    интерьеров и современных 
+    технических возможностей 
+    выгодно отличают Летний Дворец 
+    от большинства других 
+    исторических площадок города. */
+
+
+position: absolute;
+width: 255px;
+height: 117px;
+left: 975px;
+top: 1836px;
+
+font-family: Candara Light;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 135%;
+/* or 19px */
+
+
+/* gray */
+
+color: #616161;
+}
+
+.descr22{
+    /* descr2 */
+
+position: absolute;
+width: 39px;
+height: 20px;
+left: 1260px;
+top: 1796px;
+}
+
+.interer{
+    /* интерьеры */
+
+position: absolute;
+width: 189px;
+height: 17px;
+left: 1326px;
+top: 1799px;
+
+font-family: Bahnschrift Light ;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 135%;
+/* or 22px */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.text2{
+    /* Изысканное внутреннее убранство
+     Летнего Дворца — тонко выполненная 
+     стилизация с использованием традиционных
+      технологий и материалов — мрамора,
+       бронзового литья. */
+
+position: absolute;
+width: 255px;
+height: 117px;
+left: 1260px;
+top: 1836px;
+
+font-family: Candara Light;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 135%;
+/* or 19px */
+
+
+/* gray */
+
+color: #616161;
+}
+
+.descr33{
+    /* descr3 */
+
+position: absolute;
+width: 37px;
+height: 31px;
+left: 975px;
+top: 1992px;}
+
+.texno{
+/* технологии */
+
+
+position: absolute;
+width: 189px;
+height: 17px;
+left: 1041px;
+top: 2006px;
+
+font-family:Bahnschrift Light ;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 135%;
+/* or 22px */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.text3{
+    /* Возможности «Летнего Дворца» практически 
+    безграничны с точки зрения 
+    проведения мероприятий 
+    самого разного формата и 
+    масштаба. */
+
+
+position: absolute;
+width: 255px;
+height: 91px;
+left: 975px;
+top: 2043px;
+
+font-family: Candara Light;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 135%;
+/* or 19px */
+
+
+/* gray */
+
+color: #616161;
+}
+
+.descr44{
+/* descr4 */
+
+
+position: absolute;
+width: 43px;
+height: 37px;
+left: 1260px;
+top: 1992px;
+}
+
+.oborydovanie{
+    /* оборудование */
+
+
+position: absolute;
+width: 189px;
+height: 17px;
+left: 1326px;
+top: 2006px;
+
+font-family:Bahnschrift Light ;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 135%;
+/* or 22px */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.text4{
+    /* Установлен комплект самого 
+    современного звукового оборудования, 
+    который приятно удивит 
+    даже знатока качественного звука. */
+
+
+position: absolute;
+width: 255px;
+height: 91px;
+left: 1260px;
+top: 2043px;
+
+font-family: Candara Light;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 135%;
+/* or 19px */
+
+
+/* gray */
+
+color: #616161;
+}
+
+.galary{
+    /* галерея */
+
+position: absolute;
+width: 113px;
+height: 25px;
+left: 476px;
+top: 2444px;
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 135%;
+/* or 32px */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+
+.descr121{
+    /* descr1 */
+
+    position: absolute;
+    width: 46px;
+    height: 30px;
+    left: 510px;
+    top: 2494px;
+}
+
+.dvorec2{
+    /* летний дворец */
+
+    position: absolute;
+    width: 87px;
+    height: 11px;
+    left: 489px;
+    top: 2534px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 9px;
+    line-height: 11px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    
+    color: #000000;
+}
+
+.rest1{
+    /* Rectangle 2.1 */
+
+position: absolute;
+width: 445px;
+height: 300px;
+left: 690px;
+top: 2344px;
+}
+
+.rest2{
+    /* Rectangle 2.2 */
+
+position: absolute;
+width: 350px;
+height: 300px;
+left: 1165px;
+top: 2344px;
+}
+
+.rest3{
+    /* Rectangle 2.3 */
+
+position: absolute;
+width: 445px;
+height: 300px;
+left: 1070px;
+top: 2674px;
+}
+
+.rest4{
+    /* Rectangle 2.4 */
+
+position: absolute;
+width: 635px;
+height: 630px;
+left: 405px;
+top: 2674px;
+}
+
+.rest5{
+    /* Rectangle 2.5 */
+
+position: absolute;
+width: 445px;
+height: 300px;
+left: 1070px;
+top: 3004px;
+}
+
+.res1{
+    /* Rectangle 2 */
+
+position: absolute;
+width: 1910px;
+height: 409px;
+left: 0px;
+top: 3454px;
+}
+
+.uznat_bolhe{
+    /* узнайте о нас больше */
+
+position: absolute;
+width: 524px;
+height: 35px;
+left: 698px;
+top: 3574px;
+
+/* h2 */
+
+font-family: Candara Light;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 145%;
+/* or 52px */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.res2{
+    /* Rectangle 3 */
+
+position: absolute;
+width: 255px;
+height: 64px;
+left: 627px;
+top: 3679px;
+
+background: #FFFFFF;
+}
+
+.knopka1{
+    /* Скачать план */
+
+position: absolute;
+width: 140px;
+height: 21px;
+left: 684px;
+top: 3702px;
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.res3{
+/* Rectangle 3 */
+
+position: absolute;
+width: 320px;
+height: 64px;
+left: 972px;
+top: 3679px;
+
+background: #FFFFFF;
+}
+
+.knopka2{
+    /* Скачать презентацию */
+
+position: absolute;
+width: 228px;
+height: 20px;
+left: 1018px;
+top: 3701px;
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.merop{
+    /* хотите провести мероприятие? */
+
+position: absolute;
+width: 529px;
+height: 91px;
+left: 405px;
+top: 3983px;
+/* h2 */
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 145%;
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.textop{
+    /* Или у вас остались вопросы, на которые мы сможем вам ответить 
+    в процессе разговора - напишите нам. Мы открыты для диалога! */
+
+
+position: absolute;
+width: 540px;
+height: 34px;
+left: 405px;
+top: 4114px;
+
+/* p */
+
+font-family:Candara Light;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 135%;
+
+
+/* gray */
+
+color: #616161;
+}
+
+.reg1{
+    /* Ваше имя */
+
+
+position: absolute;
+width: 73px;
+height: 15px;
+left: 975px;
+top: 3991px;
+
+/* p */
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 135%;
+/* or 14px */
+
+
+/* gray */
+
+color: #616161;
+}
+
+.reg2{
+    /* Ваш e-mail */
+
+
+position: absolute;
+width: 80px;
+height: 19px;
+left: 975px;
+top: 4048px;
+
+/* p */
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 14px */
+
+
+/* gray */
+
+color: #616161;
+}
+
+.reg3{
+    /* Сообщение */
+
+
+position: absolute;
+width: 86px;
+height: 19px;
+left: 995px;
+top: 4130px;
+
+/* p */
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 135%;
+/* identical to box height, or 14px */
+
+
+/* gray */
+
+color: #616161;
+}
+
+.regfoto1{
+    /* Line */
+
+
+position: absolute;
+width: 540px;
+height: 0px;
+left: 975px;
+top: 4023px;
+
+border: 0.5px solid #D0D0D0;
+}
+
+.regfoto2{
+    /* Line */
+
+
+position: absolute;
+width: 540px;
+height: 0px;
+left: 975px;
+top: 4080px;
+
+border: 0.5px solid #D0D0D0;
+}
+
+.regfoto3{
+    /* Rectangle 2 */
+
+
+position: absolute;
+width: 540px;
+height: 196px;
+left: 975px;
+top: 4115px;
+
+border: 0.5px solid #D0D0D0;
+box-sizing: border-box;
+}
+
+.inform1{
+ /* ресторан */
+
+
+position: absolute;
+width: 97px;
+height: 17px;
+left: 405px;
+top: 4208px;
+
+/* h3 */
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 135%;
+/* or 22px */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.inform2{
+/* офис */
+
+
+position: absolute;
+width: 97px;
+height: 17px;
+left: 690px;
+top: 4208px;
+
+/* h3 */
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 135%;
+/* or 22px */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.inform3{
+/* Санкт-Петербургское шоссе, д 130, к. 7 */
+
+
+position: absolute;
+width: 200px;
+height: 34px;
+left: 460px;
+top: 4255px;
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 135%;
+/* or 19px */
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+
+.inform4{
+    /* +7 (812) 210 67 95 */
+
+
+position: absolute;
+width: 116px;
+height: 19px;
+left: 460px;
+top: 4319px;
+
+/* p */
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 14px */
+
+
+color: #000000;
+}
+
+.inform5{
+    /* hello@summerpalace.ru */
+
+
+position: absolute;
+width: 171px;
+height: 19px;
+left: 460px;
+top: 4370px;
+
+/* p */
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 135%;
+/* identical to box height, or 14px */
+
+
+color: #000000;
+}
+
+.inform3_2{
+    /* ст. м. «Лиговский проспект», ул. Черняховского, д. 75 */
+
+
+position: absolute;
+width: 200px;
+height: 34px;
+left: 745px;
+top: 4255px;
+
+font-family:Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 135%;
+/* or 14px */
+
+letter-spacing: -0.01em;
+text-decoration-line: underline;
+
+color: #000000;
+}
+
+.inform4_2{
+    /* +7 (812) 210 67 95 */
+
+
+position: absolute;
+width: 116px;
+height: 19px;
+left: 745px;
+top: 4319px;
+
+/* p */
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 135%;
+/* identical to box height, or 14px */
+
+
+color: #000000;
+}
+
+.inform5_2{
+    /* hello@summerpalace.ru */
+
+
+position: absolute;
+width: 171px;
+height: 19px;
+left: 745px;
+top: 4370px;
+
+/* p */
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 135%;
+/* identical to box height, or 14px */
+
+
+color: #000000;
+}
+
+.infofoto1{
+    /* Rectangle 3 */
+
+
+position: absolute;
+width: 182px;
+height: 45px;
+left: 975px;
+top: 4346px;
+
+/* Accent */
+
+background: #D1A954;
+}
+
+.inform6{
+    /* отправить */
+
+
+position: absolute;
+width: 111px;
+height: 22px;
+left: 1005px;
+top: 4355px;
+
+/* h3 */
+
+font-family: Candara Light;
+font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 135%;
+/* identical to box height, or 22px */
+
+text-align: center;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+} 
+
+.infofoto2{
+    /* Vector1 */
+
+position: absolute;
+left: 405px;
+right:1489.48px ;
+top: 4255px;
+}
+
+.infofoto3{
+    /* Vector2 */
+
+position: absolute;
+left:405px;
+right:1490.34px ;
+top:4319px ;
+}
+
+.infofoto4{
+    /* Vector */
+
+position: absolute;
+left: 405px;
+right: 409px;
+top:4370px;
+}
+
+.infofoto5{
+    /* Vector1 */
+
+position: absolute;
+left: 694.49px;
+top:4255px;
+}
+
+.infofoto6{
+    /* Vector2 */
+
+position: absolute;
+left:694.49px;
+top:4319px ;
+}
+
+.infofoto7{
+    /* Vector */
+
+position: absolute;
+left:694.49px;
+top: 4370px;
+}
+
+.insta1{
+    /* наш instagram */
+
+position: absolute;
+width: 346px;
+height: 52px;
+left: 787px;
+top: 4631px;
+
+/* h2 */
+
+font-family:Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 27px;
+line-height: 145%;
+/* or 36px */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #222222;
+}
+
+.descr228{
+    /* descr1 */
+
+position: absolute;
+width: 46px;
+height: 30px;
+left: 937px;
+top: 4725px;
+
+}
+
+.dvorec228{
+    /* летний дворец */
+
+position: absolute;
+width: 87px;
+height: 11px;
+left: 916px;
+top: 4760px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.fotoinsta1{
+    /* Rectangle 2 */
+
+
+position: absolute;
+width: 320px;
+height: 304px;
+left: 0px;
+top: 4832px;
+}
+
+.fotoinsta2{
+    /* Rectangle 2.1 */
+
+
+position: absolute;
+width: 320px;
+height: 304px;
+left: 320px;
+top: 4832px;
+}
+
+.fotoinsta3{
+    /* Rectangle 2.2 */
+
+
+position: absolute;
+width: 320px;
+height: 304px;
+left: 640px;
+top: 4832px;
+}
+
+.fotoinsta4{
+    /* Rectangle 2.3 */
+
+
+position: absolute;
+width: 320px;
+height: 304px;
+left: 960px;
+top: 4832px;
+}
+
+.fotoinsta5{
+    /* Rectangle 2.4 */
+
+
+position: absolute;
+width: 320px;
+height: 304px;
+left: 1280px;
+top: 4832px;
+}
+
+.fotoinsta6{
+    /* Rectangle 2.5 */
+
+
+position: absolute;
+width: 320px;
+height: 304px;
+left: 1600px;
+top: 4832px;
+}
+
+.postex1{
+    /* Copyright (с) 2019 Ресторан “Летний дворец” */
+
+
+position: absolute;
+width: 319px;
+height: 15px;
+left: 405px;
+top: 5176px;
+
+/* p */
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 135%;
+/* or 19px */
+
+
+color: #000000;
+}
+
+.postex2{
+    /* Facebook — Vkontakte — Instagram */
+
+
+position: absolute;
+width: 261px;
+height: 16px;
+left: 1254px;
+top: 5176px;
+
+/* p */
+
+font-family: Bahnschrift Light;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 135%;
+/* or 19px */
+
+text-align: right;
+
+color: #000000;
+}
